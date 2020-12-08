@@ -1,1 +1,2 @@
-# NBA-12-ULTRA-DON-T-THINK-ABOUT-PLAYING-THIS-GAME
+# p5.play-boilerplate
+Boiler plate for p5.play
